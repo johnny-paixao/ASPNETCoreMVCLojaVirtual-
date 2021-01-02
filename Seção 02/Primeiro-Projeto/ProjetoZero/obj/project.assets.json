@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\Primeiro-Projeto\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\ASPNETCoreMVCLojaVirtual-\\Seção 02\\Primeiro-Projeto\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\Primeiro-Projeto\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\ASPNETCoreMVCLojaVirtual-\\Seção 02\\Primeiro-Projeto\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\Primeiro-Projeto\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\johnn\\OneDrive\\Área de Trabalho\\ASPNETCoreMVCLojaVirtual-\\Seção 02\\Primeiro-Projeto\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
